@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project was conducted in jupyter notebooks with Python mlenv. This project included 4 parts.  The first part was preparing the data.  Null values were found and dropped.  All values were converted to floats and certain columns were dropped. To create two dataframes.
+This project was conducted in Jupyter Notebook with Python mlenv. This project included 4 parts.  The first part was preparing the data.  Null values were found and dropped.  All values were converted to floats and certain columns were dropped. To create two dataframes.
 
 In the second part of the project, the data dimensions were reduced by PCA.  A new dataframe pcs_df was created with 3 compononents the data was reduced into by PCA.  The third part included clustering the cryptocurrencies using K-Means.  This included plotting an elbow curve to determine the best value of k.
 
